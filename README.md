@@ -56,16 +56,6 @@
 
 ---
 
-### 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Array/Array/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Array/Array/output/github-snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/Array/Array/output/github-snake-dark.svg" />
-</picture>
-
----
-
 <img src="https://komarev.com/ghpvc/?username=Array&style=for-the-badge&color=00ff41&label=PROFILE+VIEWS" />
 
 </div>
