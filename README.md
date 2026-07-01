@@ -12,7 +12,7 @@
 <div align="center">
 
 <!-- ===== HEADER BANNER ===== -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:010409,55:8C6D1F,100:F5C518&height=230&section=header&text=%3C%20Array%20%2F%3E&fontSize=74&fontColor=F5C518&animation=fadeIn&fontAlignY=37&desc=SECURITY-FOCUSED%20DEVELOPER%20%C2%B7%20KOREA&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:010409,55:8C6D1F,100:F5C518&height=230&section=header&text=Array&fontSize=88&fontColor=F5C518&animation=fadeIn&fontAlignY=37&desc=SECURITY-FOCUSED%20DEVELOPER%20%C2%B7%20KOREA&descAlignY=58&descSize=16" width="100%" />
 
 <!-- ===== TYPING ===== -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=900&color=F5C518&center=true&vCenter=true&width=620&lines=Security+Researcher;Full-Stack+Developer;Reverse+Engineering+%7C+Malware+Analysis;Offensive+%2B+Defensive+Security;%24+whoami+%3E%3E+stay_curious%2C+stay_secure" alt="typing" />
