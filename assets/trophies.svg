@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 96" width="100%" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"><g transform="translate(0,0)">
+<rect x="0.5" y="0.5" width="115" height="83" rx="10" fill="#010409" stroke="#21262d"></rect>
+<text x="58" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#f5c518">S</text>
+<text x="58" y="52" text-anchor="middle" font-size="19" fill="#f5c518">★</text>
+<text x="58" y="72" text-anchor="middle" font-size="10" fill="#6e7681">Stars</text></g>
+<g transform="translate(124,0)">
+<rect x="0.5" y="0.5" width="115" height="83" rx="10" fill="#010409" stroke="#21262d"></rect>
+<text x="58" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#f5c518">A+</text>
+<text x="58" y="52" text-anchor="middle" font-size="19" fill="#f5c518">◆</text>
+<text x="58" y="72" text-anchor="middle" font-size="10" fill="#6e7681">Commits</text></g>
+<g transform="translate(248,0)">
+<rect x="0.5" y="0.5" width="115" height="83" rx="10" fill="#010409" stroke="#21262d"></rect>
+<text x="58" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#f5c518">A</text>
+<text x="58" y="52" text-anchor="middle" font-size="19" fill="#f5c518">⬡</text>
+<text x="58" y="72" text-anchor="middle" font-size="10" fill="#6e7681">Followers</text></g>
+<g transform="translate(372,0)">
+<rect x="0.5" y="0.5" width="115" height="83" rx="10" fill="#010409" stroke="#21262d"></rect>
+<text x="58" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#f5c518">A+</text>
+<text x="58" y="52" text-anchor="middle" font-size="19" fill="#f5c518">⇄</text>
+<text x="58" y="72" text-anchor="middle" font-size="10" fill="#6e7681">PullReq</text></g>
+<g transform="translate(496,0)">
+<rect x="0.5" y="0.5" width="115" height="83" rx="10" fill="#010409" stroke="#21262d"></rect>
+<text x="58" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#f5c518">A</text>
+<text x="58" y="52" text-anchor="middle" font-size="19" fill="#f5c518">⊙</text>
+<text x="58" y="72" text-anchor="middle" font-size="10" fill="#6e7681">Issues</text></g>
+<g transform="translate(620,0)">
+<rect x="0.5" y="0.5" width="115" height="83" rx="10" fill="#010409" stroke="#21262d"></rect>
+<text x="58" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#f5c518">B</text>
+<text x="58" y="52" text-anchor="middle" font-size="19" fill="#f5c518">▦</text>
+<text x="58" y="72" text-anchor="middle" font-size="10" fill="#6e7681">Repos</text></g>
+<g transform="translate(744,0)">
+<rect x="0.5" y="0.5" width="115" height="83" rx="10" fill="#010409" stroke="#21262d"></rect>
+<text x="58" y="26" text-anchor="middle" font-size="15" font-weight="700" fill="#f5c518">A</text>
+<text x="58" y="52" text-anchor="middle" font-size="19" fill="#f5c518">✓</text>
+<text x="58" y="72" text-anchor="middle" font-size="10" fill="#6e7681">Reviews</text></g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 200" width="100%" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<defs>
+<linearGradient id="ag" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f5c518" stop-opacity="0.42"></stop><stop offset="1" stop-color="#f5c518" stop-opacity="0"></stop></linearGradient>
+<filter id="lg" x="-20%" y="-40%" width="140%" height="180%"><feGaussianBlur stdDeviation="3" result="b"></feGaussianBlur><feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
+</defs>
+<rect x="0.5" y="0.5" width="859" height="199" rx="12" fill="#010409" stroke="#21262d"></rect>
+<line x1="42" y1="150" x2="818" y2="150" stroke="#21262d"></line>
+<path d="M42,100 L113,84 L183,108 L254,70 L324,92 L395,60 L465,82 L536,52 L606,74 L677,64 L747,46 L818,66 L818,150 L42,150 Z" fill="url(#ag)"></path>
+<path d="M42,100 L113,84 L183,108 L254,70 L324,92 L395,60 L465,82 L536,52 L606,74 L677,64 L747,46 L818,66" fill="none" stroke="#f5c518" stroke-width="2.5" stroke-linejoin="round" filter="url(#lg)"></path>
+<circle cx="747" cy="46" r="4" fill="#010409" stroke="#f5c518" stroke-width="2.4"></circle>
+<text x="836" y="30" text-anchor="end" font-size="10.5" fill="#6e7681">last 12 months</text>
+<text x="42" y="178" text-anchor="middle" font-size="10.5" fill="#6e7681">Jan</text><text x="197" y="178" text-anchor="middle" font-size="10.5" fill="#6e7681">Mar</text><text x="352" y="178" text-anchor="middle" font-size="10.5" fill="#6e7681">May</text><text x="508" y="178" text-anchor="middle" font-size="10.5" fill="#6e7681">Jul</text><text x="663" y="178" text-anchor="middle" font-size="10.5" fill="#6e7681">Sep</text><text x="818" y="178" text-anchor="middle" font-size="10.5" fill="#6e7681">Nov</text>
+</svg>

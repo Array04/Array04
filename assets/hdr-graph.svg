@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 30" width="100%" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<text x="0" y="20" font-size="12" font-weight="600" letter-spacing="2.6" fill="#f5c518">// CONTRIBUTION GRAPH</text>
+<rect x="165" y="14" width="695" height="1.5" fill="url(#fade)"></rect>
+
+<defs>
+<radialGradient id="rglow" cx="50%" cy="-8%" r="72%">
+<stop offset="0" stop-color="#f5c518" stop-opacity="0.14"></stop>
+<stop offset="0.6" stop-color="#f5c518" stop-opacity="0"></stop></radialGradient>
+<pattern id="scan" width="880" height="22" patternUnits="userSpaceOnUse">
+<rect width="880" height="1" y="21" fill="#f5c518" opacity="0.035"></rect></pattern>
+<filter id="tg" x="-40%" y="-40%" width="180%" height="180%">
+<feGaussianBlur stdDeviation="5" result="b"></feGaussianBlur>
+<feMerge><feMergeNode in="b"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter>
+<linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0" stop-color="#f5c518" stop-opacity="0.5"></stop>
+<stop offset="1" stop-color="#f5c518" stop-opacity="0"></stop></linearGradient>
+</defs>
+</svg>
